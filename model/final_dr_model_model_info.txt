@@ -1,0 +1,7 @@
+Model Information
+=================
+Filename        : final_dr_model.pt
+Model Class     : EfficientNet
+Saved On        : 2025-07-10 12:38:19
+Model Size (MB) : 29.83 MB
+Hash Model    : f58a6e5133baaaa8adfcaa2dbb84f63b4aae59ecfae7e58720058b56c0ebea08
